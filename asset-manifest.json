@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Mekanika_website_design/static/css/main.13cf77d2.css",
-    "main.js": "/Mekanika_website_design/static/js/main.ea65d1db.js",
+    "main.css": "/Mekanika_website_design/static/css/main.f2c65b92.css",
+    "main.js": "/Mekanika_website_design/static/js/main.3c5c127d.js",
     "static/js/787.0762329f.chunk.js": "/Mekanika_website_design/static/js/787.0762329f.chunk.js",
     "static/media/Mekanika_logo.png": "/Mekanika_website_design/static/media/Mekanika_logo.e2d4deedac08cd4ccdec.png",
     "static/media/cricket.jpg": "/Mekanika_website_design/static/media/cricket.3b94ddb1eabb7e332a56.jpg",
@@ -15,14 +15,13 @@
     "static/media/ME5.jpg": "/Mekanika_website_design/static/media/ME5.e26e9097e288a4b3c58d.jpg",
     "static/media/ME003.jpg": "/Mekanika_website_design/static/media/ME003.7441a870b538d20f5b74.jpg",
     "static/media/MEO3.jpg": "/Mekanika_website_design/static/media/MEO3.14bec223a601fbb6ca11.jpg",
-    "static/media/home03.jpeg": "/Mekanika_website_design/static/media/home03.e5e661de4db7a7ee40f6.jpeg",
     "index.html": "/Mekanika_website_design/index.html",
-    "main.13cf77d2.css.map": "/Mekanika_website_design/static/css/main.13cf77d2.css.map",
-    "main.ea65d1db.js.map": "/Mekanika_website_design/static/js/main.ea65d1db.js.map",
+    "main.f2c65b92.css.map": "/Mekanika_website_design/static/css/main.f2c65b92.css.map",
+    "main.3c5c127d.js.map": "/Mekanika_website_design/static/js/main.3c5c127d.js.map",
     "787.0762329f.chunk.js.map": "/Mekanika_website_design/static/js/787.0762329f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.13cf77d2.css",
-    "static/js/main.ea65d1db.js"
+    "static/css/main.f2c65b92.css",
+    "static/js/main.3c5c127d.js"
   ]
 }
