@@ -1,6 +1,6 @@
 {
   "short_name": "Mekanika",
-  "name": "Mechanical Department society IIT Kharagpur",
+  "name": "Mechanical Department Society IIT Kharagpur",
   "icons": [
     {
       "src": "favicon.ico",
@@ -11,12 +11,14 @@
     {
       "src": "logo192.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "192x192",
+      "background_color": "#000000"
     },
     {
       "src": "logo512.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x512",
+      "background_color": "#000000"
     }
   ],
   "start_url": ".",
