@@ -13,6 +13,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
+  "theme_color": "#daa520",
   "background_color": "#000000"
 }
